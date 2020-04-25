@@ -1,6 +1,6 @@
 # Tetris LED grid
 
-The project is a custom version of the Tetris game displayed on a 8X16 grid of LEDs runniong on an ESP32 board, using Arduino IDE.
+The project is a custom version of the Tetris game displayed on a 8X16 grid of LEDs running on an ESP32 board, using Arduino IDE.
 
 
 ## Objective
